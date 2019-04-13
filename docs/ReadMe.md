@@ -7,6 +7,6 @@ Comparing the starting branch and ending branch will help in learning that topic
 [Link to diff](https://github.com/nachiappannk/LearningJava/compare/master...project-starter)
 
 ## Inversion of Control in Spring
-The detailed discussion on Inversion Of Control is available [here] (InversionOfControl.md)
+The detailed discussion on Inversion Of Control is available [here](InversionOfControl.md)
 
 
