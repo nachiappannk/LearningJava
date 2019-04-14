@@ -11,20 +11,31 @@ The steps to get Lombok working in IntelliJ, the following has to be done.
 1. Lombok plugin has to installed in IntelliJ IDE (This needs restart of IntelliJ)
 2. Annotation Processing has to be enabled in IntelliJ 
 
+### Getting Started with Lombok in a gradle project in IntelliJ
+1. Install Lombok plugin in IntelliJ (IntelliJ restart is needed)
+2. Enable Annotation Processing in IntelliJ
+3. Add the dependency of Lombok to gradle.builder
+4. Now Lombok can be used
+The details could be seen [here](https://github.com/nachiappannk/LearningJava/compare/preparing-for-lombok...implementing-lombok)
+
 ### @Getter
-Adds getter
+Adds getter for a field.
+Explained in the default example [here](https://github.com/nachiappannk/LearningJava/compare/preparing-for-lombok...implementing-lombok)
 
 ### @Setter
-Adds setter
+Adds setter.
+Similar to getter.
 
 ### @ToString
 Overrides the toString method
+Explained in the default example [here](https://github.com/nachiappannk/LearningJava/compare/preparing-for-lombok...implementing-lombok)
 
 ### @EqualsAndHashCode
 Overrides the toString method and hash code method
 
 ### @Builder
-Creates a builder pattern for building the object
+Creates a builder pattern for building the object. To use the builder pattern we need to annotate the class with AllArgsConstructor also
+The details can be seen [here](https://github.com/nachiappannk/LearningJava/compare/implementing-lombok...Implementing-logging-using-slf4j)
 
 ### @Slf4j
 
