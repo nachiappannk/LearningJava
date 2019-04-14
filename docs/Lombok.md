@@ -35,9 +35,12 @@ Overrides the toString method and hash code method
 
 ### @Builder
 Creates a builder pattern for building the object. To use the builder pattern we need to annotate the class with AllArgsConstructor also
-The details can be seen [here](https://github.com/nachiappannk/LearningJava/compare/implementing-lombok...Implementing-logging-using-slf4j)
+The details can be seen [here](https://github.com/nachiappannk/LearningJava/compare/implementing-lombok...Implementing-lombok-builder)
 
 ### @Slf4j
+Slf4j is a loggin framework.
+Lombok introduces a mechanism to log using Slf4j.
+The details of it can be found [here](https://github.com/nachiappannk/LearningJava/compare/implementing-lombok...Implementing-logging-using-slf4j)
 
 ### @Log
 

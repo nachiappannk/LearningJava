@@ -12,4 +12,27 @@ The detailed discussion on Inversion Of Control is available [here](InversionOfC
 ## Lombok
 This is not a related to Spring. This is however commonly used with Spring. More information is available [here] (Lombok.md)
 
+## AOP
+
+## Spring MVC
+
+## Spring Boot
+
+## Hibernate Spring Data JPA
+
+## Spring WebFlux
+
+## Spring Configuration
+
+## External Properties with Spring Framework
+
+## MongoDB with spring boot
+
+## Reactive Programming
+
+## Validation and Constraints with Spring MVC
+
+## Unit Testing with Junit
+
+
 
