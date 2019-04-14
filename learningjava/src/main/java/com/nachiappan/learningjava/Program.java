@@ -2,6 +2,13 @@ package com.nachiappan.learningjava;
 
 public class Program {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+
+        Employee employee = new Employee();
+        employee.setName("Shiva");
+        employee.setLastName("Kumar");
+        employee.setEmailId("shiva.kumar@gmail.com");
+        
+        System.out.println(employee);
     }
 }
+
