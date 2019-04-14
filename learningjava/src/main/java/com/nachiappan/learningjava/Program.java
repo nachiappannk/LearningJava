@@ -8,6 +8,7 @@ public class Program {
         employee.setLastName("Kumar");
         employee.setEmailId("shiva.kumar@gmail.com");
 
+        employee.greet();
         System.out.println(employee);
     }
 }
